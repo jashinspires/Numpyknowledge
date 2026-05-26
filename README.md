@@ -1,5 +1,5 @@
 # 📘 NumPy Core Learning Notes
-![Visitors](https://api.visitorbadge.io/api/visitors?page=https%3A%2F%2Fgithub.com%2Fjashinspires%2FNumpyknowledge&color=007ec6&label=REVIEWS)
+![Repository Views](https://komarev.com/ghpvc/?username=jashinspires&repo=Numpyknowledge&label=Views&color=007ec6&style=flat-square)
 
 > This README is a **personal revision tracker** of my NumPy learning journey. It covers concepts I've actually written code for and understood. New sections will be appended as I progress through advanced material.
 
