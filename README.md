@@ -1,6 +1,6 @@
 # 📘 NumPy Core Learning Notes
 
-> A personal revision guide covering the **core fundamentals of NumPy** — built from hands-on practice. This README documents current concepts learned so far and is architected to easily scale as advanced modules are added.
+> This README is a **personal revision tracker** of my NumPy learning journey. It covers concepts I've actually written code for and understood. New sections will be appended as I progress through advanced material.
 
 ---
 
@@ -376,7 +376,3 @@ These advanced sections will be appended tracking progression order:
 * [ ] Coordinate Mapping Evaluation via Meshgrids (`np.meshgrid`)
 
 ---
-
-### 📌 About
-
-This README is a **personal revision tracker** of my NumPy learning journey. It covers concepts I've actually written code for and understood. New sections will be appended as I progress through advanced material.
